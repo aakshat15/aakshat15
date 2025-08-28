@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack  
 
 **Languages:**  
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `SQL`  
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `SQL` · `Java`  
 
 **Frontend:**  
 `React.js` · `Redux` · `Zustand` · `Context API` · `Material UI` · `Tailwind CSS` · `Bootstrap` · `Framer Motion`  
