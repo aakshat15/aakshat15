@@ -38,21 +38,49 @@
 
 ### 🚀 Featured Projects  
 
-#### 🔹 AI-Driven Sales Pitch Training PWA  
+#### 🔹 [AI-Driven Sales Pitch Training PWA](https://www.pitchster.ai/)  
 *React.js · Zustand · TypeScript · Express.js · PostgreSQL · MongoDB · OpenAI · Whisper · Husky*  
-- AI-powered pitch simulations with real-time feedback  
-- Converted into a **cross-platform mobile app** with Capacitor  
-- Implemented **real-time notifications** using WebSockets  
 
-#### 🔹 Insurance Policy Management System  
+A **Progressive Web App (PWA)** designed to empower sales professionals through **AI-driven pitch training** and preparation for client meetings.  
+Key features:  
+- **AI-powered pitch simulations** with **real-time feedback**  
+- Reusable **frontend components** for scalability  
+- **Backend APIs** with Node.js, Prisma & MongoDB  
+- Integrated **OpenAI + Whisper APIs** for pitch generation & voice-to-text  
+- Converted to **cross-platform mobile app** with Capacitor  
+- **Real-time notifications** via WebSockets  
+- **Git hooks automation** with Husky for code quality  
+
+👉 [🌐 Live Demo](https://app.pitchster.ai/)  
+
+---
+
+#### 🔹 [The CoverKraft](https://thecoverkraft.com/)  
 *React.js · Redux · Express.js · MongoDB*  
-- Scan, store & track policies with **premium calculation & renewal reminders**  
-- Built **user app + admin portal**  
 
-#### 🔹 BytesFarms Corporate Website  
+An **insurance policy management platform** enabling users to manage their policies digitally.  
+Key features:  
+- **Scan, save & track policies**  
+- Automated **expiration notifications & renewal reminders**  
+- Built-in **premium calculation** for users  
+- **User-facing app** + **admin portal** for management  
+- Reusable components & utility functions for maintainability  
+
+👉 [🌐 Live Demo](https://thecoverkraft.com/)  
+
+---
+
+#### 🔹 [BytesFarms Corporate Website](https://bytesfarms.com/)  
 *React.js · JavaScript · Framer Motion · EmailJS*  
-- Responsive, animated corporate website  
-- SEO optimized & deployed on **Hostinger**  
+
+A **responsive corporate website** for Bytesfarms Technologies with animations and SEO optimization.  
+Highlights:  
+- **Modern, responsive UI** with Framer Motion  
+- Integrated **EmailJS** for contact forms without backend  
+- Optimized for **performance, SEO & accessibility**  
+- Deployed on **Hostinger** for reliable hosting  
+
+👉 [🌐 Visit Website](https://bytesfarms.com/)  
 
 ---
 
